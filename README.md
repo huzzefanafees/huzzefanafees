@@ -1,74 +1,207 @@
-<h1 align="center">Hello, I'm Huzzefa Bin Nafees 👋</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from Pakistan</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=huzzefanafees&label=Profile%20views&color=0e75b6&style=flat" alt="huzzefanafees" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Huzzefa%20Bin%20Nafees&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Oracle%20Certified%20%7C%20DOC1%20Consultant&descAlignY=55&descSize=17" width="100%"/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+.NET+%26+Blazor;DOC1+Consultant+%7C+EngageOne+Expert;Oracle+CC%26B+%26+Data+Migration;Building+Scalable%2C+Clean+Web+Applications+🚀)](https://git.io/typing-svg)
 
-### 🌟 About Me
+<br/>
 
-- 🔭 I’m currently working on various **web development projects**.
-- 🌱 I’m expanding my skills in **Python, AI, Machine Learning, CCB, Data Migration,** and **DOC1**.
-- 👨‍💻 Check out my projects at my [portfolio]().
-- 💬 Feel free to ask me about **Web Development, Computer Vision,** and **App Design**.
-- 📫 You can reach me at **huzzefanafees@gmail.com**.
-
----
-
-### 📬 Connect with Me
-
-<p align="left">
-  <a href="https://x.com/HuzzefaSwati" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HuzzefaSwati" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/huzzefabinnafees/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzzefabinnafeees" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/@huzzefa.khan.90" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huzzefa.khan" height="30" width="40" />
-  </a>
-<a href="https://www.instagram.com/huzzefabinnafees/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huzzefabinnafees" height="30" width="40" />
+<img src="https://komarev.com/ghpvc/?username=huzzefanafees&label=Profile+Views&color=0891b2&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/huzzefanafees?tab=followers">
+  <img src="https://img.shields.io/github/followers/huzzefanafees?label=Followers&style=for-the-badge&color=0891b2" alt="Followers"/>
 </a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const huzzefa = {
+  name:        "Huzzefa Bin Nafees",
+  location:    "Mansehra, Khyber Pakhtunkhwa, Pakistan 🇵🇰",
+  role:        "Full Stack Developer | DOC1 Consultant | Oracle Certified",
+  companies:   ["Meraki Global Consulting", "Telinsight (UAE)"],
+  education:   "BSc Computer Science — Hazara University (2018–2022)",
+  specialties: [
+    "Full-Stack Web Dev (.NET Core, Blazor, MVC, Razor Pages)",
+    "Document Automation (DOC1 / EngageOne Suite)",
+    "Oracle CC&B & Data Migration",
+    "Scalable Systems & Clean Architecture"
+  ],
+  certifications: [
+    "Oracle Cloud Infrastructure AI Foundations Associate",
+    "Front End Web Development",
+    "Introduction to JavaScript",
+    "Front End Development - CSS",
+    "Ecommerce Management"
+  ],
+  contact:  "huzzefanafees@gmail.com",
+  openTo:   "New projects, collaborations & impactful digital solutions 🤝"
+};
+```
+
+---
+
+## 💼 Work Experience
+
+### 🏢 Meraki Global Consulting &nbsp;·&nbsp; *2 yrs 9 mos*
+
+**DOC1 Consultant & Full-Stack Developer** &nbsp;`March 2024 – Present`
+> Building full-stack web solutions alongside DOC1 document automation, integrating Oracle CC&B and scalable communication workflows.
+
+**CC&B and Data Migration Consultant** &nbsp;`Sep 2023 – Mar 2024`
+> Handled Oracle Customer Care & Billing (CC&B) configurations and managed complex data migration pipelines.
+
+---
+
+### 🏢 Telinsight &nbsp;·&nbsp; United Arab Emirates &nbsp;·&nbsp; *5+ years*
+
+**DOC1 Developer** &nbsp;`January 2021 – Present`
+> Leveraging the **EngageOne platform** to provide coding and implementation support for print stream technologies across:
+> - EngageOne Designer, Compose, Server & Vault
+> - EngageOne Deliver (email & digital communications)
+> - EngageOne Interactive, Web APIs & Web Services
+> - End-to-end: server setup, Vault migration & production support
+
+---
+
+### 🏢 Nearpeer.org
+
+**Software Engineer Trainee — Front-End** &nbsp;`Jul 2023 – Sep 2023`
+
+---
+
+### 🏢 URRAAN — Runway to Digital Flight &nbsp;·&nbsp; Abbottabad, KPK
+
+**Frontend Developer (Internship)** &nbsp;`May 2023 – Jun 2023`
+> Completed front-end tasks in HTML, CSS, Bootstrap, JavaScript & responsive design in a professional setting.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
----
 
-### 🚀 Technologies & Tools
+### 🚀 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
-- **Languages:** JavaScript, C#, PHP, Python
-- **Frameworks:** Blazor, React, Django
-- **Databases:** SQL Server, MySQL, Oracle
-- **Tools:** Git, Docker, Visual Studio, Visual Studio Code
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
----
+### 📄 Document Automation & Enterprise
+<p>
+  <img src="https://img.shields.io/badge/DOC1%20%2F%20EngageOne-0055A5?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_CC%26B-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Migration-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🤖 AI / Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzzefanafees&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Huzzefa's GitHub Stats" />
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-### 🤝 Let's Collaborate!
+## 🏅 Certifications
 
-I’m always open to discussing **new projects, ideas**, or **collaborations**. Let's connect and create something amazing together!
+| 🏆 Certificate | Issuer |
+|---|---|
+| 🟠 Oracle Cloud Infrastructure AI Foundations Associate | Oracle |
+| 🌐 Front End Web Development | — |
+| 🎨 Front End Development — CSS | — |
+| ⚡ Introduction to JavaScript | — |
+| 🛒 Ecommerce Management | — |
 
 ---
 
-<h3 align="center">Thank you for visiting my profile!</h3>
+## 🎓 Education
 
+| Degree | Institution | Year |
+|---|---|---|
+| 🎓 BSc Computer Science | Hazara University | 2018 – 2022 |
+| 📘 FSc Pre-Engineering | Al Quran Beacon School and College | 2016 – 2018 |
+| 📗 Matric (Science) | Al Azhar Academy | 2014 – 2016 |
 
-</p>
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huzzefanafees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzzefanafees&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top Languages"/>
+</div>
 
-<!---
-huzzefanafees/huzzefanafees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzzefanafees&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzzefanafees&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzzefabinnafees/)
+[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HuzzefaSwati)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/huzzefabinnafees/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/@huzzefa.khan.90)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzzefanafees@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Experienced Full Stack Developer specializing in .NET Core, Blazor & DOC1 — building scalable, clean, and impactful digital solutions."*
+
+**Let's connect and build something amazing together! 🚀**
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
