@@ -165,17 +165,22 @@ const huzzefa = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzzefanafees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzzefanafees&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top Languages"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzzefanafees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzzefanafees&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzzefanafees&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=huzzefanafees&theme=tokyonight&hide_border=true)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzzefanafees&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huzzefanafees&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ---
